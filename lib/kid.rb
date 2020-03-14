@@ -5,6 +5,6 @@ class Kid
  extend 
  FancyDance::ClassMethods 
  include 
- FancyDance::ClassMethods
+ FancyDance::InstanceMethods
  end 
  
